@@ -1,5 +1,5 @@
 #cajero automatico
-Saldo=0
+Saldo=10
 while True:
     print("""
           *****Cajero Automatico******
