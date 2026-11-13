@@ -1,4 +1,5 @@
-#cajero automatico
+#cajero automatico clase primero
+
 Saldo=10
 while True:
     print("""
